@@ -1,4 +1,5 @@
-### Hi there 👋
+<h2> Hi, there </h2>
+<img src="https://github.com/gelicamarie/gelicamarie/blob/main/img/Animoji.png" width="200">
 
 <!--
 **gelicamarie/gelicamarie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -8,7 +8,7 @@
     <p>🔭 I’m currently working on <a href="https://ambassadors.media/">Ambassadors Media </a> </p>
     <p> 🌱 and I’m currently learning Web Development and UI/UX Design </p>
     <br/>
-    <p> Connect with me here: </p>
+    <p> Connect with me : </p>
    <div align="left">
     <div style="display: flex; align-items: flex-start;">
    <img src="https://github.com/gelicamarie/gelicamarie/blob/main/img/linkedin.png" width="50"/>

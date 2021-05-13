@@ -9,10 +9,10 @@
     <p> 🌱 I’m currently learning Web Development and UI/UX Design </p>
     <br/>
     <p> Connect with me here: </p>
-   <div align="center">
+   <div align="left">
     <div style="display: flex; align-items: flex-start;">
-   <img src="https://github.com/gelicamarie/gelicamarie/blob/main/img/linkedin.png" width="80"/>
-    <img src="https://github.com/gelicamarie/gelicamarie/blob/main/img/twitter.png" width="80" />
+   <img src="https://github.com/gelicamarie/gelicamarie/blob/main/img/linkedin.png" width="50"/>
+    <img src="https://github.com/gelicamarie/gelicamarie/blob/main/img/twitter.png" width="50" />
      </div>
 </div>
 

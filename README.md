@@ -1,5 +1,10 @@
-<h2> Hi, there </h2>
-<img src="https://github.com/gelicamarie/gelicamarie/blob/main/img/Animoji.png" width="200">
+
+
+<div style="display:flex; flex-direction:column; justify-content:center;">
+  <img src="https://github.com/gelicamarie/gelicamarie/blob/main/img/Animoji.png" width="200"> 
+  <h2> Hi! I'm Angelica </h2>
+  </div>
+
 
 <!--
 **gelicamarie/gelicamarie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -11,8 +11,8 @@
     <p> Connect with me : </p>
    <div align="left">
     <div style="display: flex; align-items: flex-start;">
-   <img src="https://github.com/gelicamarie/gelicamarie/blob/main/img/linkedin.png" width="50"/>
-    <img src="https://github.com/gelicamarie/gelicamarie/blob/main/img/twitter.png" width="50" />
+     <a href= "https://www.linkedin.com/in/angelica-turla"> <img src="https://github.com/gelicamarie/gelicamarie/blob/main/img/linkedin.png" width="50"/> </a>
+     <a hred="https://twitter.com/gxlica"> <img src="https://github.com/gelicamarie/gelicamarie/blob/main/img/twitter.png" width="50" /> <a>
      </div>
 </div>
 

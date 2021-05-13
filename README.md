@@ -6,7 +6,7 @@
     <p>  :heart: Passionate about solving problems/challenges through programming and elegant design. <br/>
       I enjoy the logical challenges and the creative work that comes along with it.</p>
     <p>🔭 I’m currently working on <a href="https://ambassadors.media/">Ambassadors Media </a> </p>
-    <p> 🌱 and I’m currently learning Web Development and UI/UX Design </p>
+    <p> 🌱 and currently learning Web Development and UI/UX Design </p>
     <br/>
     <p> Connect with me : </p>
    <div align="left">

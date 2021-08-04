@@ -2,7 +2,7 @@
  <img alt="Animoji Hi" src="https://github.com/gelicamarie/gelicamarie/blob/main/img/Animoji.png" width="200"> </td>
 
   <div>
-    <h2> Hi, my name is Angelica oe you can call me gel 😊 </h2>
+    <h2> Hi, my name is Angelica or you can call me gel 😊 </h2>
     <p>  :heart: Passionate about solving problems/challenges through programming and elegant design. <br/>
       I enjoy the logical challenges and the creative work that comes along with it.</p>
     <p>🔭 I’m currently working on <a href="https://ambassadors.media/">Ambassadors Media </a> </p>

@@ -2,12 +2,13 @@
  <img alt="Animoji Hi" src="https://github.com/gelicamarie/gelicamarie/blob/main/img/Animoji.png" width="200"> </td>
 
   <div>
-    <h2> Hi, my name is Angelica or you can call me gel 😊 </h2>
+    Hi, my name is Angelica or you can call me gel 😊 </h2>
  <p>
      When I grow up, I want to be shadowy super coder :sunglasses: 
    </p>
     <p>  :heart: Passionate about solving problems/challenges through programming and elegant design. <br/>
-      I enjoy the logical challenges and the creative work that comes along with it.</p>
+      I enjoy the logical challenges and the creative work that comes along with it. <br/>
+     Journeying to be a Super Shadowy Coder to help build a more equitable world with Web3 & Blockchain technology. </p>
     <p>🔭 I’m currently working on <a href="https://ambassadors.media/">Ambassadors Media </a> </p>
     <p> 🌱 and currently learning Web Development, Web3 Dev, and Blockchain Stuff ⚡ </p>
     <br/>

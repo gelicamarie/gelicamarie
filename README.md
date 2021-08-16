@@ -2,7 +2,7 @@
  <img alt="Animoji Hi" src="https://github.com/gelicamarie/gelicamarie/blob/main/img/Animoji.png" width="200"> </td>
 
   <div>
-    Hi, my name is Angelica or you can call me gel 😊 </h2>
+   <h2> Hi, my name is Angelica or you can call me gel 😊 </h2>
  <p>
      When I grow up, I want to be shadowy super coder :sunglasses: 
    </p>
@@ -15,9 +15,9 @@
     <br/>
     <p> Connect with me : </p>
    <div align="left">
-    <div style="display: flex; align-items: flex-start;">
-     <a href="https://twitter.com/gxlica"> <img src="https://github.com/gelicamarie/gelicamarie/blob/main/img/twitter.png" width="50" /> <a>
-     <a href= "https://www.linkedin.com/in/angelica-turla"> <img src="https://github.com/gelicamarie/gelicamarie/blob/main/img/linkedin.png" width="50"/> </a>
+     <div style="display: flex; align-items: flex-start;">
+      <a href="https://twitter.com/gxlica"> <img src="https://github.com/gelicamarie/gelicamarie/blob/main/img/twitter.png" width="50" /> <a>
+      <a href= "https://www.linkedin.com/in/angelica-turla"> <img src="https://github.com/gelicamarie/gelicamarie/blob/main/img/linkedin.png" width="50"/> </a>
      </div>
 </div>
 

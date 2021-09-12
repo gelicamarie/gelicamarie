@@ -10,7 +10,7 @@
       I enjoy the logical challenges and the creative work that comes along with it.
      Journeying to be a Super Shadowy Coder to help build a more equitable world with
      Crypto & Blockchain technology. </p>
-    <p>🔭 I’m currently working on <a href="https://ambassadors.media/">Ambassadors Media </a> </p>
+    <p>🔭 I’m currently working at <a href="https://www.decentology.com/">Decentology</a> as a Decentralized Applications Engineer</p>
     <p> 🌱 and currently learning Web Development, Web3 Dev, and Blockchain Stuff ⚡ </p>
     <br/>
     <p> Connect with me : </p>

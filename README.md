@@ -1,4 +1,4 @@
-
+<!-- 
  <img alt="Animoji Hi" src="https://github.com/gelicamarie/gelicamarie/blob/main/img/Animoji.png" width="200"> </td>
 
   <div>
@@ -12,14 +12,15 @@
      Crypto & Blockchain technology. </p>
     <p>🔭 I’m currently working at <a href="https://www.decentology.com/">Decentology</a> as a Decentralized Applications Engineer</p>
     <p> 🌱 and currently learning Web Development, Web3 Dev, and Blockchain Stuff ⚡ </p>
-    <br/>
-    <p> Connect with me : </p>
+    <br/> -->
+    
+   Connect with me here 😄
    <div align="left">
      <div style="display: flex; align-items: flex-start;">
       <a href="https://twitter.com/gxlica"> <img src="https://github.com/gelicamarie/gelicamarie/blob/main/img/twitter.png" width="50" /> <a>
       <a href= "https://www.linkedin.com/in/angelica-turla"> <img src="https://github.com/gelicamarie/gelicamarie/blob/main/img/linkedin.png" width="50"/> </a>
      </div>
-</div>
+
 
 <!--
 **gelicamarie/gelicamarie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

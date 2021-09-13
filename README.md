@@ -2,8 +2,7 @@
    ## Hi, my name is Angelica or you can call me gel 😊 
    
    :heart: Helping build a better, more equitable world with blockchain technology  
-   
-   ⚡Currently a Decentrlized Application Engineer @ [Decentology](https://www.decentology.com/)    <br/><br/>
+   ⚡Currently a Decentrlized Application Engineer @ [Decentology](https://www.decentology.com/)    <br/>
    
    Connect with me here and talk to me about anything web3 😄
    <div align="left">

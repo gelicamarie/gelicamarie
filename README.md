@@ -1,20 +1,11 @@
-<!-- 
- <img alt="Animoji Hi" src="https://github.com/gelicamarie/gelicamarie/blob/main/img/Animoji.png" width="200"> </td>
 
-  <div>
-   <h2> Hi, my name is Angelica or you can call me gel 😊 </h2>
- <p>
-     When I grow up, I want to be shadowy super coder :sunglasses: 
-   </p>
-    <p>  :heart: Passionate about solving problems/challenges through programming and elegant design.
-      I enjoy the logical challenges and the creative work that comes along with it.
-     Journeying to be a Super Shadowy Coder to help build a more equitable world with
-     Crypto & Blockchain technology. </p>
-    <p>🔭 I’m currently working at <a href="https://www.decentology.com/">Decentology</a> as a Decentralized Applications Engineer</p>
-    <p> 🌱 and currently learning Web Development, Web3 Dev, and Blockchain Stuff ⚡ </p>
-    <br/> -->
-    
-   Connect with me here 😄
+   ## Hi, my name is Angelica or you can call me gel 😊 
+   
+   :heart: Helping build a better, more equitable world with blockchain technology  
+   
+   ⚡Currently a Decentrlized Application Engineer @ [Decentology](https://www.decentology.com/)    <br/><br/>
+   
+   Connect with me here and talk to me about anything web3 😄
    <div align="left">
      <div style="display: flex; align-items: flex-start;">
       <a href="https://twitter.com/gxlica"> <img src="https://github.com/gelicamarie/gelicamarie/blob/main/img/twitter.png" width="50" /> <a>

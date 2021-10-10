@@ -1,7 +1,8 @@
 
-
+   ## Hi
    :heart: Helping build a better, more equitable world with blockchain technology  
-   ⚡ Currently a Decentrlized Application Engineer @ [Decentology](https://www.decentology.com/)    <br/>
+   👩🏻‍💻 Currently a Decentrlized Application Engineer @ [Decentology](https://www.decentology.com/)  
+   ⚡️ Building Cool Web3 Stuff @ [TryCrypto](https://trycrypto.com/)   
   
    
    Connect with me here and talk to me about anything web3 😄

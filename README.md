@@ -1,11 +1,20 @@
 
-   ## Hi
+   ## Hi I'm Angelica (gel)
    :heart: Helping build a better, more equitable world with blockchain technology  
-   👩🏻‍💻 Currently a Decentrlized Application Engineer @ [Decentology](https://www.decentology.com/)  
-   ⚡️ Building Cool Web3 Stuff @ [TryCrypto](https://trycrypto.com/)   
-  
+ 
+ —
    
-   Connect with me here and talk to me about anything web3 😄
+Currently :
+
+👩🏻‍💻 Decentralized Applications Engineer @ Decentology.
+
+🌱 kickstarting TryCrypto — building community & products to help make Blockchain Technology more accessible to the mainstream
+
+🎓pursuing my undergraduate studies with a degree in Computer Science @ Carleton University.
+
+—
+
+💬 Feel free to connect and talk to me about anything Web3, Blockchain, Crypto and DAOs!!
    <div align="left">
      <div style="display: flex; align-items: flex-start;">
       <a href="https://twitter.com/gxlica"> <img src="https://github.com/gelicamarie/gelicamarie/blob/main/img/twitter.png" width="50" /> <a>

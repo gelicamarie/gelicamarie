@@ -6,9 +6,9 @@
    
 Currently :
 
-👩🏻‍💻 Decentralized Applications Engineer @ Decentology.
+👩🏻‍💻 Decentralized Applications Engineer @ [Decentology](https://www.decentology.com/).
 
-🌱 kickstarting TryCrypto — building community & products to help make Blockchain Technology more accessible to the mainstream
+🌱 kickstarting [TryCrypto](https://trycrypto.com/) — building community & products to help make Blockchain Technology more accessible to the mainstream
 
 🎓pursuing my undergraduate studies with a degree in Computer Science @ Carleton University.
 

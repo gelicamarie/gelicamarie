@@ -10,7 +10,7 @@ Currently :
 
 🌱 kickstarting [TryCrypto](https://trycrypto.com/) — building community & products to help make Blockchain Technology more accessible to the mainstream
 
-🎓pursuing my undergraduate studies with a degree in Computer Science @ Carleton University.
+🎓 Computer Science @ Carleton University.
 
 —
 

@@ -1,9 +1,6 @@
 
    ## Hi I'm Angelica (gel)
-   :heart: Helping build a better, more equitable world with blockchain technology  
  
- —
-   
 Currently :
 
 👩🏻‍💻 Decentralized Applications Engineer @ [Decentology](https://www.decentology.com/).

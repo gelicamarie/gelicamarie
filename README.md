@@ -7,6 +7,8 @@ Currently :
 
 🌱 kickstarting [TryCrypto](https://trycrypto.com/) — building community & products to help make Blockchain Technology more accessible to the mainstream
 
+🌸 Smart Contract Developer @ [Surge](https://www.surgewomen.io/).
+
 🎓 Computer Science @ Carleton University.
 
 —

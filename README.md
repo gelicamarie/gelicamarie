@@ -13,7 +13,7 @@ Currently :
 
 —
 
-💬 Feel free to connect and talk to me about anything Web3, Blockchain, Crypto and DAOs!!
+💬 Feel free to connect and talk to me about anything Web3!!
    <div align="left">
      <div style="display: flex; align-items: flex-start;">
       <a href="https://twitter.com/gxlica"> <img src="https://github.com/gelicamarie/gelicamarie/blob/main/img/twitter.png" width="50" /> <a>

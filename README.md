@@ -1,9 +1,11 @@
 
    ## Hi I'm Angelica (gel)
  
-Currently :
 
-<!-- 👩🏻‍💻 Decentralized Applications Engineer @ [Decentology](https://www.decentology.com/)
+
+<!-- 
+Currently :
+👩🏻‍💻 Decentralized Applications Engineer @ [Decentology](https://www.decentology.com/)
 
 🌸 Smart Contract Developer @ [Surge](https://www.surgewomen.io/)
 

@@ -3,17 +3,17 @@
  
 Currently :
 
-👩🏻‍💻 Decentralized Applications Engineer @ [Decentology](https://www.decentology.com/).
+<!-- 👩🏻‍💻 Decentralized Applications Engineer @ [Decentology](https://www.decentology.com/)
 
-🌱 kickstarting [TryCrypto](https://trycrypto.com/) — building community & products to help make Blockchain Technology more accessible to the mainstream
+🌸 Smart Contract Developer @ [Surge](https://www.surgewomen.io/)
 
-🌸 Smart Contract Developer @ [Surge](https://www.surgewomen.io/).
+👩🏽‍🚀 Frontend Develepor @ [Sound](https://www.sound.xyz/)
 
-🎓 Computer Science @ Carleton University.
+🌱 kickstarting [TryCrypto](https://trycrypto.com/) 
 
 —
 
-💬 Feel free to connect and talk to me about anything Web3!!
+💬 Feel free to connect and talk to me about anything Web3!! -->
    <div align="left">
      <div style="display: flex; align-items: flex-start;">
       <a href="https://twitter.com/gxlica"> <img src="https://github.com/gelicamarie/gelicamarie/blob/main/img/twitter.png" width="50" /> <a>

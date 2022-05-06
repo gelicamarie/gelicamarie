@@ -1,15 +1,15 @@
-https://twitter.com/0xgel
 
+fullstack & solidity @ [Decentology](https://www.decentology.com/). contributing to [Sound](https://www.sound.xyz/)
+     
 
+prev smart contract dev @ [Surge](https://nft.surgewomen.io/)
+
+---
+[@0xgel](https://twitter.com/0xgel)
+
+<!-- 🌱 kickstarting [TryCrypto](https://trycrypto.com/)  -->
 <!-- 
-Currently :
-👩🏻‍💻 Decentralized Applications Engineer @ [Decentology](https://www.decentology.com/)
 
-🌸 Smart Contract Developer @ [Surge](https://www.surgewomen.io/)
-
-👩🏽‍🚀 Frontend Develepor @ [Sound](https://www.sound.xyz/)
-
-🌱 kickstarting [TryCrypto](https://trycrypto.com/) 
 
 —
 

@@ -1,5 +1,5 @@
 
-🌱 fullstack & solidity @ [Decentology](https://www.decentology.com/). contributing to [Sound](https://www.sound.xyz/)
+🌱 fullstack & solidity @ [Decentology](https://www.decentology.com/) contributing to [Sound](https://www.sound.xyz/)
      
 
 prev smart contract dev @ [Surge](https://nft.surgewomen.io/)

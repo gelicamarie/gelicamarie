@@ -1,5 +1,5 @@
 
-🌱 frontend @ [Sound](https://www.sound.xyz/) fullstack & solidity @ [Decentology](https://www.decentology.com/) 
+🌱 dev @ [Sound](https://www.sound.xyz/) @ [Decentology](https://www.decentology.com/) 
      
 
 prev smart contract dev @ [Surge](https://nft.surgewomen.io/)
